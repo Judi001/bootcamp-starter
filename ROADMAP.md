@@ -22,31 +22,31 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
 
 ### Day 0 - 12
 
-- [ ] **General Introduction to Web Development**
+- [x] **General Introduction to Web Development**
 
   - Create an account on [FreeCodeCamp](https://www.freecodecamp.org/).
 
-- [ ] **Learn HTML by Building a Cat Photo App**
+- [x] **Learn HTML by Building a Cat Photo App**
 
   - Link: [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
   - Duration: 2 days
 
-- [ ] **Learn Basic CSS by Building a Cafe Menu**
+- [x] **Learn Basic CSS by Building a Cafe Menu**
 
   - Link: [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
   - Duration: 3 days
 
-- [ ] **Learn CSS Colors by Building a Set of Colored Markers**
+- [x] **Learn CSS Colors by Building a Set of Colored Markers**
 
   - Link: [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1)
   - Duration: 2 days
 
-- [ ] **Learn HTML Forms by Building a Registration Form**
+- [x] **Learn HTML Forms by Building a Registration Form**
 
   - Link: [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)
   - Duration: 2 days
 
-- [ ] [**Project #1**](/projects/project-1/README.md)
+- [x] [**Project #1**](/projects/project-1/README.md)
   - Duration: 3 days
 
 ### Day 13 - 24
