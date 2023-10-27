@@ -51,27 +51,27 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
 
 ### Day 13 - 24
 
-- [ ] **Learn the CSS Box Model by Building a Rothko Painting**
+- [x] **Learn the CSS Box Model by Building a Rothko Painting**
 
   - Link: [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1)
   - Duration: 2 days
 
-- [ ] **Learn CSS Flexbox by Building a Photo Gallery**
+- [x] **Learn CSS Flexbox by Building a Photo Gallery**
 
   - Link: [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
   - Duration: 2 days
 
-- [ ] **Learn Typography by Building a Nutrition Label**
+- [x] **Learn Typography by Building a Nutrition Label**
 
   - Link: [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1)
   - Duration: 2 days
 
-- [ ] **Learn Accessibility by Building a Quiz**
+- [x] **Learn Accessibility by Building a Quiz**
 
   - Link: [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
   - Duration: 2 days
 
-- [ ] [**Project #2**](/projects/project-2/README.md)
+- [x] [**Project #2**](/projects/project-2/README.md)
   - Duration: 3 days
 
 ### Day 25 - 34
